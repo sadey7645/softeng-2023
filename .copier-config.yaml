@@ -1,0 +1,39 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.11.7
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: ''
+codecov_graph_token: '[xxx]'
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://chu-aie.github.io/softeng-2023
+email: entelecheia@hotmail.com
+favicon_path: https://assets.entelecheia.ai/favicon.png
+friendly_name: Software Engineering Course 2023
+github_repo_name: softeng-2023
+github_username: chu-aie
+google_analytics_id: ''
+logo_path: ''
+main_branch: main
+package_name: softeng2023
+package_scripts:
+- softeng2023 = 'softeng2023.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: '이 소프트웨어 엔지니어링 강의는 파이썬을 사용하여 소프트웨어 엔지니어링의 원리와 실제 적용을 소개한다제
+
+    이론 강의와 실습 과제를 통해 학생들은 코딩과 테스트부터 배포와 유지 보수에 이르기까지 전체 소프트웨어 개발 수명 주기를 탐험한다.'
+project_license: CC-BY-4.0
+project_name: softeng-2023
+project_short_description: This Software Engineering course offers an introduction
+    to the principles and practices of software engineering using Python. Through
+    theoretical lectures and hands-on assignments, students will explore the entire
+    software development lifecycle, from coding and testing to deployment and maintenance.
+upload_to_release: true
+upload_to_repository: false
+use_launch_buttons: true
+use_source_code_skeleton: true
+
