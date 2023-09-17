@@ -1,5 +1,11 @@
 <!--next-version-placeholder-->
 
+## v0.3.0 (2023-09-17)
+
+### Feature
+
+* **book:** Add new project proposal template ([`2d0ee34`](https://github.com/chu-aie/softeng-2023/commit/2d0ee340fbc5210e286bef3bc6f79f87ff5456e0))
+
 ## v0.2.0 (2023-08-27)
 
 ### Feature
