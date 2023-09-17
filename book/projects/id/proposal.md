@@ -1,25 +1,14 @@
----
-name: Project Proposal
-about: Describe this issue template's purpose here.
-title: "[PROPOSAL]"
-labels: proposal
-assignees: ''
-
----
-
-## Project Title:
+# Project Title
 
 _Prepared by: [Group Name]_
 
 1. [Name and Student ID]
 2. [Name and Student ID]
 
----
 
 ## Table of Contents
 
-- [Project Proposal Template](#project-proposal-template)
-  - [Project Title:](#project-title)
+- [Project Title](#project-title)
   - [Table of Contents](#table-of-contents)
   - [1. Executive Summary](#1-executive-summary)
   - [2. Background](#2-background)
@@ -33,9 +22,7 @@ _Prepared by: [Group Name]_
   - [10. Technical Specifications](#10-technical-specifications)
   - [11. Timeline and Deliverables](#11-timeline-and-deliverables)
   - [12. Conclusion](#12-conclusion)
-  - [Alternative Approaches and Further Considerations](#alternative-approaches-and-further-considerations)
 
----
 
 ## 1. Executive Summary
 
