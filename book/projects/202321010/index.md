@@ -1,6 +1,4 @@
-# Name
-
-박진우
+# 박진우
 
 ## Description
 
