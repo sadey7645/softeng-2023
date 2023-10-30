@@ -1,6 +1,6 @@
 # Name
 
-김진우
+김진
 
 ## Description
 
