@@ -1,9 +1,9 @@
 # 부루마블
 
-_Prepared by: [Group Name]_
+_Prepared by: 박쥔서
 
 1. 박진우 202321010
-2. [Name and Student ID]
+2. 김준서 202321006
 
 
 ## Table of Contents
