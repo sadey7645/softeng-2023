@@ -5,7 +5,6 @@ _Prepared by: 박쥔서
 1. 박진우 202321010
 2. 김준서 202321006
 
-
 ## Table of Contents
 
 - [Project Title](#project-title)
@@ -30,9 +29,7 @@ _Prepared by: 박쥔서
 
 ## 2. Background
 
-- Introduce the context and problem your software aims to address.
-- Discuss its relevance and potential impact.
-- Briefly explain the rationale behind choosing this specific project.
+- 간단한 게임을 제작하려는데 어릴때 했던 부루마블이 생각나서 제작해보았습니다.
 
 ## 3. Objectives
 
@@ -40,8 +37,7 @@ _Prepared by: 박쥔서
 
 ## 4. Scope
 
-- Define the scope of the project, outlining its features and functionalities.
-- Mention any limitations or constraints such as resources, time, or technologies.
+- 없음
 
 ## 5. Software Process Model
 
@@ -49,8 +45,8 @@ _Prepared by: 박쥔서
 
 ## 6. Budget
 
-- Provide a financial plan covering hardware, software, labor, and other costs.
-- Include a contingency plan for unexpected expenses.
+- 시간
+- 노트북
 
 ## 7. System Architecture
 
@@ -58,8 +54,7 @@ _Prepared by: 박쥔서
 
 ## 8. Risks Assessment
 
-- Identify potential risks such as technical issues or resource limitations.
-- Provide mitigation strategies for each risk.
+-도박 위험성이 있습니다.
 
 ## 9. Resources
 
@@ -67,9 +62,7 @@ _Prepared by: 박쥔서
 
 ## 10. Technical Specifications
 
-- Dive deep into technical aspects like data sources, data transformations, and algorithms.
-- Discuss the technology stack, including programming languages, frameworks, and libraries.
-- Outline data security measures.
+- 파이썬과 random모듈 사용
 
 ## 11. Timeline and Deliverables
 
@@ -77,5 +70,4 @@ _Prepared by: 박쥔서
 
 ## 12. Conclusion
 
-- Summarize key points, reiterate the project’s importance, and present a call to action.
-- Address potential challenges and limitations.
+- 작동여부와 재미있고 간단하게 즐길수있는 게임 제작.
