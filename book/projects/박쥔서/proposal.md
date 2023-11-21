@@ -3,7 +3,7 @@
 _Prepared by: [Group Name]_
 
 1. [Name and Student ID]
-2. 김준서 202321006
+2. [Name and Student ID]
 
 ## Table of Contents
 
