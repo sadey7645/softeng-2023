@@ -2,7 +2,7 @@
 
 _Prepared by: [Group Name]_
 
-1. [Name and Student ID]
+1. 박진우 202321010
 2. [Name and Student ID]
 
 
@@ -26,7 +26,7 @@ _Prepared by: [Group Name]_
 
 ## 1. Executive Summary
 
-- Summarize the project's primary goals, intended outcomes, and problem it aims to solve. Keep it concise, ideally under 200 words.
+- 부루마블 게임을 간단하게 제작한다.
 
 ## 2. Background
 
@@ -36,8 +36,7 @@ _Prepared by: [Group Name]_
 
 ## 3. Objectives
 
-- Detail your project’s SMART objectives.
-- Describe how the software will meet these objectives and solve the outlined problem.
+- 부루마블 게임을 제작한다.
 
 ## 4. Scope
 
@@ -46,10 +45,7 @@ _Prepared by: [Group Name]_
 
 ## 5. Software Process Model
 
-- State the chosen software process model (e.g., Agile, Waterfall, Scrum).
-- Justify your model choice and illustrate its application to your project.
-- Detail the activities and roles in each phase, possibly via a Gantt chart.
-- Discuss testing methodologies, quality assurance, and project management strategies.
+- 에자 방법론을 택했다.
 
 ## 6. Budget
 
@@ -58,10 +54,7 @@ _Prepared by: [Group Name]_
 
 ## 7. System Architecture
 
-- Detail the system architecture, mentioning tools, technologies, and data flows.
-- Explain data storage, management strategies, and both hardware and software requirements.
-- Discuss data visualization and analytical tools you plan to use.
-- Incorporate flowcharts or diagrams to visually represent the system architecture.
+- 딱히 없다.
 
 ## 8. Risks Assessment
 
@@ -70,7 +63,7 @@ _Prepared by: [Group Name]_
 
 ## 9. Resources
 
-- Enumerate required resources, including staff roles, equipment, and software.
+- random모듈을 사용했다.
 
 ## 10. Technical Specifications
 
@@ -80,8 +73,7 @@ _Prepared by: [Group Name]_
 
 ## 11. Timeline and Deliverables
 
-- Establish a project timeline with milestones and deadlines.
-- Specify what will be delivered at each milestone and the quality assurance measures in place.
+- 기말 제출 마감일까지
 
 ## 12. Conclusion
 
