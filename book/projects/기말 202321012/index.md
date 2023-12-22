@@ -1,6 +1,4 @@
-# Name
-
-오혜진
+# [고다희, 오혜진]
 
 ## Description
 

@@ -1,10 +1,9 @@
 # Project Title
 
-_Prepared by: [기말_오혜진]_
+*Prepared by: [고다희, 오혜진]*
 
-1. [오혜진_202321012]
-2. [Name and Student ID]
-
+1. [고다희 202321001]
+2. [오혜진 202321012]
 
 ## Table of Contents
 
@@ -23,7 +22,6 @@ _Prepared by: [기말_오혜진]_
   - [11. Timeline and Deliverables](#11-timeline-and-deliverables)
   - [12. Conclusion](#12-conclusion)
 
-
 ## 1. Executive Summary
 
 - 간단한 계산기 제작
@@ -38,7 +36,7 @@ _Prepared by: [기말_오혜진]_
 
 ## 4. Scope
 
-- 
+-
 
 ## 5. Software Process Model
 
@@ -50,7 +48,7 @@ _Prepared by: [기말_오혜진]_
 
 ## 7. System Architecture
 
-- 
+-
 
 ## 8. Risks Assessment
 
@@ -58,16 +56,16 @@ _Prepared by: [기말_오혜진]_
 
 ## 9. Resources
 
-- 
+-
 
 ## 10. Technical Specifications
 
-- 
+-
 
 ## 11. Timeline and Deliverables
 
 - 기말 제출날까지
-  
+
 ## 12. Conclusion
 
 - 쉽고 간단하게 만들수 있는 계산기를 제작
